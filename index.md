@@ -1,5 +1,11 @@
 ---
-title: "Welcome to my blog"
+title: "First SITE"
 ---
 
-I'm glad you are here. I plan to talk about ...
+1. **CARS**
+ - Nissan GTR
+ - Mazda RX7 FC
+ - Toyota 86
+2. *BOOKS*
+ - Game of War
+ - Dance of Death
